@@ -1,1 +1,3 @@
 # Albbt
+
+git config
